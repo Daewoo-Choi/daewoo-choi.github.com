@@ -1,5 +1,5 @@
 var Test = function(){
-  var this = self;
+  var self = this;
   self.isItTest = function(){
     alert('It is test page.');
   };
